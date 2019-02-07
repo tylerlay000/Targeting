@@ -1,3 +1,26 @@
 body{
     font-size: 24px;
 }
+
+div{
+    background-color:blue;
+    width: 200px;
+    height:350px;
+    text-align: center;
+    vertical-align:center;
+}
+
+#go{
+    width: 600px;
+    height:100px;
+    background-color:green;
+}
+
+#stop{
+    background-color: red;
+}
+
+.bigText{
+    font-size: 30px;
+    background-color: beige;
+}
